@@ -13,11 +13,11 @@ setup(
             'fermata=fermata.cli:main',  # This defines the 'fermata' command and links it to fermata.cli:cli
         ],
     },
-    author="Your Name",
+    author="Daniel George",
     description="CLI tool for authenticating and calling the Fermata API",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/fermata-cli",  # Optional
+    url="https://github.com/dageorge1111/fermata-cli",  # Optional
     classifiers=[
         "Programming Language :: Python :: 3",
     ],
