@@ -1,3 +1,4 @@
+*.egg-info
 fermata_cli.egg-info/
 build/
 fermata_token.txt

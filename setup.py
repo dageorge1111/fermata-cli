@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="fermata-cli",
+    name="fermata-edgedet-cli",
     version="0.1",
     packages=find_packages(),  # Automatically find packages like 'fermata'
     install_requires=[

@@ -17,5 +17,4 @@ Fermata CLI is a command-line tool that allows users to interact with the Fermat
 ### Install the CLI locally
 
 ```bash
-pip install .
-
+pip install fermata-edgedet-cli==0.1
